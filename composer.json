@@ -10,6 +10,13 @@
 	"license": [
 		"MIT"
 	],
+	"authors": [
+		{
+			"name": "Tadeo Barranco",
+			"email": "tbarrancoa@gmail.com",
+			"homepage": "https://tadebarranco.com"
+		}
+	],
 	"autoload": {
 		"files": [
 			"registration.php"
